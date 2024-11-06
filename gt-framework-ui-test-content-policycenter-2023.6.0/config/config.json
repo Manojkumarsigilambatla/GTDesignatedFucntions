@@ -1,0 +1,11 @@
+{
+  "PC_URL": "",
+  "CC_URL": "",
+  "BC_URL": "",
+  "CM_URL": "",
+  "Jutro_SSO_URL": "",
+  "dev-test-location-pattern": "ui/tests/**/*.js",
+  "feature_location_pattern": "behavior/features/**/*.feature",
+  "glue_location_pattern": "behavior/steps/**/*.js",
+  "allow_insecure_app_urls": "true"
+}
